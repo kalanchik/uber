@@ -1,0 +1,74 @@
+Date : 2024-04-03 02:15:16
+Directory : /Users/macbook/Documents/GitHub/uber_clone
+Total : 28 files,  2334 codes, 139 comments, 211 blanks, all 2684 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         23 |      2,209 |         55 |        178 |      2,442 |
+| YAML     |          2 |         40 |         68 |         19 |        127 |
+| HTML     |          1 |         40 |         16 |          6 |         62 |
+| JSON     |          1 |         35 |          0 |          1 |         36 |
+| Markdown |          1 |         10 |          0 |          7 |         17 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                          | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                             |         28 |      2,334 |        139 |        211 |      2,684 |
+| . (Files)                                                                                     |          3 |         50 |         68 |         26 |        144 |
+| lib                                                                                           |         22 |      2,195 |         45 |        171 |      2,411 |
+| lib (Files)                                                                                   |          1 |         47 |          7 |          7 |         61 |
+| lib/api                                                                                       |          1 |        138 |          0 |         19 |        157 |
+| lib/bloc                                                                                      |          3 |         94 |          3 |         31 |        128 |
+| lib/bloc/bloc                                                                                 |          3 |         94 |          3 |         31 |        128 |
+| lib/models                                                                                    |          3 |        165 |          0 |         18 |        183 |
+| lib/screens                                                                                   |         12 |      1,734 |         35 |         91 |      1,860 |
+| lib/screens/main                                                                              |          4 |        696 |          0 |         35 |        731 |
+| lib/screens/main/view                                                                         |          1 |         56 |          0 |          7 |         63 |
+| lib/screens/main/widgets                                                                      |          3 |        640 |          0 |         28 |        668 |
+| lib/screens/payment                                                                           |          8 |      1,038 |         35 |         56 |      1,129 |
+| lib/screens/payment/view                                                                      |          1 |        306 |         31 |         13 |        350 |
+| lib/screens/payment/widgets                                                                   |          7 |        732 |          4 |         43 |        779 |
+| lib/services                                                                                  |          1 |          0 |          0 |          2 |          2 |
+| lib/utils                                                                                     |          1 |         17 |          0 |          3 |         20 |
+| test                                                                                          |          1 |         14 |         10 |          7 |         31 |
+| web                                                                                           |          2 |         75 |         16 |          7 |         98 |
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                      | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /Users/macbook/Documents/GitHub/uber_clone/README.md                                          | Markdown |         10 |          0 |          7 |         17 |
+| /Users/macbook/Documents/GitHub/uber_clone/analysis_options.yaml                              | YAML     |          3 |         22 |          4 |         29 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/api/info.service.dart                          | Dart     |        138 |          0 |         19 |        157 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/bloc/bloc/main_bloc.bloc.dart                  | Dart     |         58 |          3 |         12 |         73 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/bloc/bloc/main_event.bloc.dart                 | Dart     |         23 |          0 |         12 |         35 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/bloc/bloc/main_state.bloc.dart                 | Dart     |         13 |          0 |          7 |         20 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/main.dart                                      | Dart     |         47 |          7 |          7 |         61 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/models/mamont_info.module.dart                 | Dart     |         23 |          0 |          7 |         30 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/models/uber_info.module.dart                   | Dart     |         36 |          0 |          3 |         39 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/models/uber_tarifs.module.dart                 | Dart     |        106 |          0 |          8 |        114 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/screens/main/view/main_screen.dart             | Dart     |         56 |          0 |          7 |         63 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/screens/main/widgets/apple_pay.dart            | Dart     |         52 |          0 |          4 |         56 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/screens/main/widgets/sheet.dart                | Dart     |        350 |          0 |         15 |        365 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/screens/main/widgets/uber_card.dart            | Dart     |        238 |          0 |          9 |        247 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/screens/payment/view/payment.dart              | Dart     |        306 |         31 |         13 |        350 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/screens/payment/widgets/account_type_tile.dart | Dart     |         48 |          0 |          4 |         52 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/screens/payment/widgets/add_card_ui.dart       | Dart     |        370 |          0 |         20 |        390 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/screens/payment/widgets/customsheet.dart       | Dart     |         20 |          0 |          4 |         24 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/screens/payment/widgets/dialog_container.dart  | Dart     |         23 |          0 |          4 |         27 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/screens/payment/widgets/input_action.dart      | Dart     |         78 |          0 |          4 |         82 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/screens/payment/widgets/push_content.dart      | Dart     |        114 |          4 |          4 |        122 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/screens/payment/widgets/succeses_content.dart  | Dart     |         79 |          0 |          3 |         82 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/services/location_services.dart                | Dart     |          0 |          0 |          2 |          2 |
+| /Users/macbook/Documents/GitHub/uber_clone/lib/utils/utils.dart                               | Dart     |         17 |          0 |          3 |         20 |
+| /Users/macbook/Documents/GitHub/uber_clone/pubspec.yaml                                       | YAML     |         37 |         46 |         15 |         98 |
+| /Users/macbook/Documents/GitHub/uber_clone/test/widget_test.dart                              | Dart     |         14 |         10 |          7 |         31 |
+| /Users/macbook/Documents/GitHub/uber_clone/web/index.html                                     | HTML     |         40 |         16 |          6 |         62 |
+| /Users/macbook/Documents/GitHub/uber_clone/web/manifest.json                                  | JSON     |         35 |          0 |          1 |         36 |
+| Total                                                                                         |          |      2,334 |        139 |        211 |      2,684 |
++-----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
